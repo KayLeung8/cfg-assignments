@@ -1,0 +1,45 @@
+1.1	SDLC (Software Development Life Cycle) refers to a series of stages in the software development process, from requirements analysis to development, testing, deployment, maintenance, etc.
+
+1.2	It will throw DivideByZeroException exception.
+
+
+1.3	The git command to move code from the local repository to the remote repository is git push.
+
+1.4	NULL represents the absence of a value or a missing value in a column.
+
+
+1.5	It can maintain the sprint process and ensure that each sprint is completed smoothly.
+
+1.6	Interactive Debugging:Use the debugging tools or debuggers provided by the IDE, such as setting breakpoints to check variables and expressions, etc.      Static Code Analysis:Using tools without executing the code can effectively identify structural problems in the code.
+
+
+1.7	In one case, when the input price or cash_given is a string or other non-numeric, TypeError is raised and you are told that the type you entered does not match and that you should enter the appropriate integer or float type value.
+
+1.8	branch in Git is a movable pointer to a commit. When a commit is started, the pointer will only think of the main branch of the last commit, and the main branch pointer will move forward with each commit.
+
+
+1.9	a. Key Requirements:
+User Registration
+User Login
+Menu Display
+Order Placement
+Payment Integration
+Order Status 
+Admin Panel for Menu Management
+
+
+b. Main Considerations and Problems:
+Interactivity of the system: Should be intuitive and easy to use
+Scalability: Can handle high throughput at peak times
+Security: Protect user information at the time of payment
+Integration: Integration with the original system
+Real-time Updates: Updates order information in Real time
+
+
+c. Components or Tools:
+Frontend Framework: React or Vue
+Backend Framework: Express.js with Django.
+Database: SQL databases like PostgreSQL or MySQL.
+Payment Gateways: Stripe, PayPal, or other popular payment providers.
+Scalability: AWS or Google Cloud.
+Notification Service: Firebase Cloud Messaging.
